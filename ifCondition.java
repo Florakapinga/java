@@ -10,6 +10,9 @@ public class ifCondition {
         else if( x==30){
             System.out.println("the value of x is 30");
         }
+        else {
+            System.out.println("this is else statement");
+        }
 
     }
     
